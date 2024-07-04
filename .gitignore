@@ -6,3 +6,5 @@ index.ios.js
 iOS
 .idea
 yarn.lock
+.DS_Store
+.envrc
